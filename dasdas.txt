@@ -8,3 +8,5 @@ new line from mustafa
 new line 2 from Alex
 line4 from mzstafa
 line3 from mzstafa
+
+i add this new file to test bash comment
