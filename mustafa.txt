@@ -3,7 +3,7 @@
 int main ()
 
 {
- int a;
+
   printf("mustafa elfiky");
  return 0;
 }
