@@ -1,1 +1,2 @@
-int main (void)
+mustafa remove and add this line 
+now new line 
